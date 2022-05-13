@@ -1,1 +1,1 @@
-# runtime-dynamodb-plugin
+# customer-success-runtime-dynamodb-plugin
