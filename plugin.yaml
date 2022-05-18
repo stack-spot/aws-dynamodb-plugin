@@ -58,7 +58,7 @@ hooks:
       - search:
           string: "type: microservice"
           insert-after:
-            value: "    traits:\n"
+            value: "      traits:\n"
           when:
             not-exists: "traits:"     
       - search:
